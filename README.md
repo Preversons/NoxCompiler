@@ -35,6 +35,9 @@ git clone https://github.com/Preversons/NoxCompiler.git
 ```powershell
 git clone https://github.com/Preversons/NoxCompiler.git
 cd NoxCompiler
+```
+以下部分与`./build.bat`等价
+```powershell
 mkdir build
 cd build
 cmake ..
